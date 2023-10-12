@@ -12,7 +12,7 @@ const Header = () => {
       <GridContainer>
         <NavList>
           <NavigationLink to="/" aria-current="page">
-            Homepage
+            Home
           </NavigationLink>
           <NavigationLink to="movies">Movies</NavigationLink>
         </NavList>
